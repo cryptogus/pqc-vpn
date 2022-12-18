@@ -5,7 +5,7 @@ pqc-vpn
 
 ### clone
 git clone https://gitlab.com/gilgil/g.git  
-git clone https://gitlab.com/gilgil/pqc-vpn.git  
+git clone https://gitlab.com/gilgil/pqc-vpn.git or git clone https://github.com/pqcy/pqc-vpn.git
 
 ### Buid G library
 cd g  
