@@ -38,8 +38,8 @@ MAC 주소는 테스트 당시 임의로 줬다
 sudo pkill vpnclient-test   
 sudo ./stop.sh  
 
-## release로 빌드없이 바로 Run   
-
+release로 빌드없이 바로 Run   
+===
 ![ApplicationWindow 레이아웃](./tag.png)   
 
 tag 버튼을 눌러 pqc-vpn-v0.0.0.6.tar.gz 을 다운로드 받아 압축을 풀면 빌드과정을 거칠 필요없이 바로 Run 부분을 실행하면 된다.   
