@@ -32,7 +32,7 @@ sudo ./vpnserver-test 12345 crt/rootCA.pem eth0
 sudo ./start.sh  
 sudo ./vpnclient-test dum0 00:00:00:11:11:11 wlan0 127.0.0.1 12345  
 
-이더넷 주소는 임의로 주세요   
+MAC 주소는 테스트 당시 임의로 줬다   
 
 종료시   
 sudo pkill vpnclient-test   
