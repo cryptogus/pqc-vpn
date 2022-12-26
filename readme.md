@@ -38,16 +38,16 @@ MAC 주소는 테스트 당시 임의로 줬다
 sudo pkill vpnclient-test   
 sudo ./stop.sh  
 
-release로 빌드없이 바로 Run   
+release로 빌드없이 바로 Run하는 방법 두가지   
 ===
 ![ApplicationWindow 레이아웃](./tag.png)   
 
-tag 버튼을 눌러 pqc-vpn-v0.0.0.6.tar.gz 을 다운로드 받아 압축을 풀면 빌드과정을 거칠 필요없이 바로 Run 부분을 실행하면 된다.   
+1. tag 버튼을 눌러 pqc-vpn-v0.0.0.6.tar.gz 을 다운로드 받아 압축을 풀면 빌드과정을 거칠 필요없이 바로 Run 부분을 실행하면 된다.   
 
 ------
 ![ApplicationWindow 레이아웃](./release.png)   
 
-v0.0.0.6 으로 들어가서 다운로드 하면 된다.   
+2. v0.0.0.6 으로 들어가서 1.에서처럼 다운로드 하고 압축을 풀면 된다.   
 
 ## tag 와 release에 대한 개념 참고 사이트   
 
