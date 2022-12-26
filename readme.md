@@ -37,3 +37,8 @@ MAC 주소는 테스트 당시 임의로 줬다
 종료시   
 sudo pkill vpnclient-test   
 sudo ./stop.sh  
+
+release 버전   
+tag 버튼을 눌러 pqc-vpn-v0.0.0.6.tar.gz 을 다운로드 받아 압축을 풀면 빌드과정을 거칠 필요없이 바로 Run 부분을 실행하면 된다.   
+tag 와 release에 대한 개념 참고 사이트   
+https://webisfree.com/2017-07-31/git-%ED%83%9C%EA%B9%85%ED%95%98%EA%B8%B0-tag-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
