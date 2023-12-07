@@ -56,3 +56,7 @@ https://webisfree.com/2017-07-31/git-%ED%83%9C%EA%B9%85%ED%95%98%EA%B8%B0-tag-%E
 https://git.jiny.dev/gitflow/release   
 
 https://hbase.tistory.com/62
+
+### 구조도 (갱신 중)
+
+session -> tcpsession -> tcpserver 
